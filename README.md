@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Auditya Sofyananda Pratama
 
-<!--
-**auditditdit/auditditdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the internet!  
+I'm a **Geophysics student at UGM** who loves combining **science and technology** to solve real-world energy problems ⚡🌍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+
+- 🌋 Geoscience fundamentals (especially geophysics 🛰️)
+- 📊 Data Science & Machine Learning for geoscience
+- 🐍 Python, SQL, and other data-related tools
+- 🛢️ Petroleum exploration & Quantitative Interpretation
+
+---
+
+## 💡 What I'm Working On
+
+- Building personal projects that combine **geoscience + coding**
+- Learning version control with **:contentReference[oaicite:1]{index=1} & :contentReference[oaicite:2]{index=2}**
+- Preparing for a future career at international oil service companies  
+  *(like :contentReference[oaicite:3]{index=3}, :contentReference[oaicite:4]{index=4}, :contentReference[oaicite:5]{index=5}, or :contentReference[oaicite:6]{index=6})*
+
+---
+
+## 🎯 My Goals
+
+- 🥇 Graduate with strong technical and computational skills  
+- 📚 Contribute to open-source geoscience projects  
+- 🌱 Help build a greener and more efficient energy future
+
+---
+
+## 🌟 Fun Facts
+
+- 🖐️ I am left-handed
+- ♟️ I love playing chess
+- ⌨️ I can type as fast as 150 WPM
+
+---
+
+## 📫 Connect With Me
+
+- ✉️ [Email me](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 💻 [Portfolio (optional)](https://your-portfolio.com)
+
+---
+
+> “Exploration is curiosity put into action.” — Me 😉
