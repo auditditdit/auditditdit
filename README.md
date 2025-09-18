@@ -17,8 +17,8 @@ I'm a **Geophysics student at UGM** who loves combining **science and technology
 ## 💡 What I'm Working On
 
 - Building personal projects that combine **geoscience + coding**
-- Learning version control with **:contentReference[oaicite:1]{index=1} & :contentReference[oaicite:2]{index=2}**
-- Preparing for a future career at international oil service companies  
+- Learning version control system with **Git and GitHub**
+- Preparing for a future career at international **oil service** companies  
 
 ---
 
@@ -40,9 +40,8 @@ I'm a **Geophysics student at UGM** who loves combining **science and technology
 
 ## 📫 Connect With Me
 
-- ✉️ [Email me](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 💻 [Portfolio (optional)](https://your-portfolio.com)
+- ✉️ [Email me](mailto:audityasp@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/audityasp/)
 
 ---
 
