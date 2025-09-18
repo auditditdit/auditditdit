@@ -19,7 +19,6 @@ I'm a **Geophysics student at UGM** who loves combining **science and technology
 - Building personal projects that combine **geoscience + coding**
 - Learning version control with **:contentReference[oaicite:1]{index=1} & :contentReference[oaicite:2]{index=2}**
 - Preparing for a future career at international oil service companies  
-  *(like :contentReference[oaicite:3]{index=3}, :contentReference[oaicite:4]{index=4}, :contentReference[oaicite:5]{index=5}, or :contentReference[oaicite:6]{index=6})*
 
 ---
 
